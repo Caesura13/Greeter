@@ -30,4 +30,4 @@ jobs:
       - name: Installer et lancer le programme
         run: |
           cmake --install build --prefix install
-          ./install/bin/greet Jean
+          ./install/bin/greet Alice
